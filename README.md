@@ -42,6 +42,7 @@ Terdapat 6 class yaitu :
 Alur program yang dibuat pada kedua bahasa ini sama, semua masukkannya di hardcode. 
 Pada main akan memanggil 4 class yaitu class Course, Prodi, Mahasiswa dan Dosen. Untuk class course dipanggil untuk memberi masukkan dan nantinya dipakai pada class yang lain sebagai composite. Sedangkan 3 class yang lain di input secara hardcode dan diminta untuk print outputnya. 
 Seperti hasil Screenshot dibawah ini
+
 ![(1)](https://user-images.githubusercontent.com/101117829/223185589-206dde57-ec26-4459-9496-0bfefcc655c2.PNG)
 
 ![(1)](https://user-images.githubusercontent.com/101117829/223185730-0cd174bf-7e79-45ab-89ec-e4d8712fed29.PNG)
