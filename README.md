@@ -27,16 +27,16 @@ Terdapat 6 class yaitu :
   
 4. **class Dosen**
   
-    class Dosen adalah anak dari class Siak dan cucu dari class Human, selain itu class Dosen juga composite atau has a atribut yang dimiliki oleh class Course. Terdapat 5 atribut yang di set private yaitu program studi, fakultas, pendidikan terakhir, keahlian dan couse yang composite dengan class Course.
+    Class Dosen adalah anak dari class Siak dan cucu dari class Human, selain itu class Dosen juga composite atau has a atribut yang dimiliki oleh class Course. Terdapat 5 atribut yang di set private yaitu program studi, fakultas, pendidikan terakhir, keahlian dan couse yang composite dengan class Course.
     Composite dengan class Course bertujuan untuk data dosen tersebut mengajar di mata kuliah apa. 
   
 5. **class Prodi**
 
-    class Prodi hanya composite dengan class Course saja yang bertujuan untuk membuat list ada apa saja mata kuliah di program studi tersebut. Memiliki 3 atribut yang di set private yaitu nama program studi, kode, dan course yang composite dengan class Course.
+    Class Prodi hanya composite dengan class Course saja yang bertujuan untuk membuat list ada apa saja mata kuliah di program studi tersebut. Memiliki 3 atribut yang di set private yaitu nama program studi, kode, dan course yang composite dengan class Course.
   
 6. **class Course**
 
-    class Course adalah composite ke berbagai class, ada class Mahasiswa, Dosen dan Prodi. Class Course hanya memiliki satu atribut yaitu atribut matkul. 
+    Class Course adalah composite ke berbagai class, ada class Mahasiswa, Dosen dan Prodi. Class Course hanya memiliki satu atribut yaitu atribut matkul. 
   
 ## ALUR PROGRAM
 Alur program yang dibuat pada kedua bahasa ini sama, semua masukkannya di hardcode. 
